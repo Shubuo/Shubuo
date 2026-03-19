@@ -1,6 +1,4 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/render?type=soft&color=auto&height=200&section=header&text=Burak%20&fontSize=70&animation=fadeIn" width="100%" />
-  
   ### 🛸 Founder at [Meshine](https://www.meshine.tech) | R&D Engineer | Robotics Enthusiast 🇹🇷
   
   [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://tr.linkedin.com/in/byoruk)
